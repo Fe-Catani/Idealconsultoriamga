@@ -1,0 +1,95 @@
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => e58f4124-cb4f-4432-afc2-35b1a7669c7d
+                    [color] => 1
+                    [roll] => 9
+                    [createdAt] => 2025-01-24T20:05:37.396Z
+                )
+
+            [1] => Array
+                (
+                    [id] => 2b6361fb-357d-450c-bf49-5c298001a501
+                    [color] => 2
+                    [roll] => 20
+                    [createdAt] => 2025-01-24T20:05:09.093Z
+                )
+
+            [2] => Array
+                (
+                    [id] => 73eeba67-6c53-4c39-bbed-02089f1b6174
+                    [color] => 1
+                    [roll] => 7
+                    [createdAt] => 2025-01-24T20:04:40.840Z
+                )
+
+            [3] => Array
+                (
+                    [id] => bb300323-99e9-4c34-83cd-8b37697f442a
+                    [color] => 1
+                    [roll] => 6
+                    [createdAt] => 2025-01-24T20:04:12.654Z
+                )
+
+            [4] => Array
+                (
+                    [id] => 49479773-7456-4eba-b2b9-3319c6871828
+                    [color] => 2
+                    [roll] => 14
+                    [createdAt] => 2025-01-24T20:03:44.404Z
+                )
+
+            [5] => Array
+                (
+                    [id] => 9250ea4a-1c87-4acc-94cd-a4f14e43ea99
+                    [color] => 1
+                    [roll] => 7
+                    [createdAt] => 2025-01-24T20:03:16.145Z
+                )
+
+            [6] => Array
+                (
+                    [id] => e1557d56-be94-434c-afda-078fcc5c6bf1
+                    [color] => 2
+                    [roll] => 15
+                    [createdAt] => 2025-01-24T20:02:47.879Z
+                )
+
+            [7] => Array
+                (
+                    [id] => 809637a8-cf9c-443c-be05-972979563be9
+                    [color] => 2
+                    [roll] => 16
+                    [createdAt] => 2025-01-24T20:02:19.580Z
+                )
+
+            [8] => Array
+                (
+                    [id] => 3986d227-9e75-47a7-84f9-327327402db6
+                    [color] => 2
+                    [roll] => 12
+                    [createdAt] => 2025-01-24T20:01:51.333Z
+                )
+
+            [9] => Array
+                (
+                    [id] => 56a186dc-ed40-453d-9c37-66253eda49f0
+                    [color] => 1
+                    [roll] => 4
+                    [createdAt] => 2025-01-24T20:01:23.046Z
+                )
+
+        )
+
+    [pageCount] => 4531
+    [hasNextPage] => 1
+    [hasPreviousPage] => 
+    [nextPage] => 2
+    [previousPage] => 
+    [page] => 1
+    [count] => 45309
+    [take] => 10
+)
