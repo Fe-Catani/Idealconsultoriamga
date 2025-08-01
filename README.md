@@ -5,7 +5,6 @@ Bem-vindo ao painel de controle da **Ideal Consultoria**, uma plataforma desenvo
 ---
 
 ## 🚀 Funcionalidades
-✅ login
 ✅ Cadastro de clientes com documentação  
 ✅ Consulta e busca por CPF ou nome  
 ✅ Gerenciamento de usuários (admin e regular)  
